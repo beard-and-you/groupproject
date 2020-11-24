@@ -105,6 +105,7 @@
 .btn-home {
 	color: black;
 	float: left;
+	margin: 40px;
 }
 
 .btn-home:hover {
