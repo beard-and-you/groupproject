@@ -102,12 +102,12 @@
 	color: white;
 }
 
-.btn-home.p {
+.btn-homep {
 	color: black;
 	float: left;
 }
 
-.btn-home.p:hover {
+.btn-homep:hover {
 	color: grey;
 }
 
